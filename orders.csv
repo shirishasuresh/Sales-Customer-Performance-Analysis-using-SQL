@@ -1,0 +1,7 @@
+order_id,customer_id,order_date,payment_type
+101,1,2024-01-01,UPI
+102,2,2024-01-03,Card
+103,1,2024-01-10,UPI
+104,3,2024-02-02,Cash
+105,4,2024-02-15,Card
+106,5,2024-03-01,UPI
