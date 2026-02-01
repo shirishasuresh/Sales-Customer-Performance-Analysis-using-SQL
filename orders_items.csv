@@ -1,0 +1,7 @@
+order_id,product,category,quantity,price
+101,Laptop,Electronics,1,55000
+102,Headphones,Electronics,2,2000
+103,Keyboard,Electronics,1,1500
+104,Chair,Furniture,1,7000
+105,Table,Furniture,1,12000
+106,Monitor,Electronics,1,18000
